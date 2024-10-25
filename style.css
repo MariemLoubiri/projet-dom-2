@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+
+}
+.container {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px;
+}
+
+
+#color-box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+}
+
+
+#change-color-btn {
+    padding: 10px 20px; 
+    background-color: #af4c9b; 
+    color: white;
+    border-radius: 5px;
+}
+
+#change-color-btn:hover {
+    background-color: rgb(211, 172, 172); 
+}
